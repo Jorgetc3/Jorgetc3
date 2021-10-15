@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jorgetc3
-- 👀 I’m interested in Scripting/Security
+- 👀 I’m interested in Security
 - 🌱 I’m currently learning CyberSecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
