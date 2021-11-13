@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jorgetc3
 - 👀 I’m interested in Ethical Hacking
--
 - 🌱 I’m currently learning CyberSecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
